@@ -1,0 +1,1 @@
+</main><footer><div class="container footer"><div><strong>💧 AquaPure Water Services</strong><p>Pure hydration, delivered to your doorstep.</p></div><div><p>Fresh water for homes, offices & events.</p><small>© <?=date('Y')?> AquaPure Water Services</small></div></div></footer></body></html>
